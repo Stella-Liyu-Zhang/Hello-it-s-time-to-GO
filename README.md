@@ -21,7 +21,7 @@ This repo is made to track my progress and thoughts while building projects in G
 ## Project 2. Build a CRUD API with GoLang
 
 Structure of the API:
-![structure of the API:](/src/go-server/imgs/APIstructure.png)
+![structure of the API:](imgs/APIstructure.png)
 1) First, we install this 
 go get "github.com/gorilla/mux"
 
