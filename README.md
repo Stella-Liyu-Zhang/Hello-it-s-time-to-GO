@@ -26,7 +26,6 @@ Structure of the API:
 ```
 go get -u "github.com/gorilla/mux"
 ```
- It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 ### The packages that we will use in this projects include:
     - "encoding/json" //data in json and sent to postman
 	- "fmt"
